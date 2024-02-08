@@ -6,6 +6,9 @@ import (
 	"github.com/dzivdzi/dog"
 )
 
+var LittleDog = "LittleDog"
+const BigDog = "BigDog"
+
 func Bark() string {
 	return "Woof!"
 }
